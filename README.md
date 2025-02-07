@@ -1,4 +1,4 @@
-I'm still testing
+Most things were fixed in this, might have one or more things that need fixing but I am not sure
 
 
 
